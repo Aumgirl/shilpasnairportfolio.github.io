@@ -1365,7 +1365,7 @@ a:focus {
     width: 120px;
     padding: 10px;
     border: 5px dotted #ffffff;
-    border-radius: 0px;
+    border-radius: 100px;
 }
 
 .testimonial .testimonial-text {
@@ -1374,7 +1374,7 @@ a:focus {
     padding: 65px 35px 30px 35px;
     text-align: center;
     background: #ffffff;
-    border-radius: 500px;
+    border-radius: 250px;
 }
 
 .testimonial .testimonial-item p {
